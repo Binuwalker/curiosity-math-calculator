@@ -1,0 +1,30 @@
+body{
+  background-image: url("../public/img/MathWalpaper.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.calc-app{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 45px;
+}
+
+.calc-wrapper{
+  background-color: #119BC6;
+  height: 610px;
+  width: 400px;
+  border-radius: 16px;
+  box-shadow: 10px 20px 30px black;
+}
+
+.row{
+  display: flex;
+  margin-left: 5px;
+  width: 390px;
+}
+
+.button-align{
+  margin-top: 5px;
+}

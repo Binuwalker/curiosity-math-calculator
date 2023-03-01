@@ -1,0 +1,32 @@
+.input-wrapper {
+    height: 130px;
+    width: 380px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    flex-direction: column;
+    background-color: rgb(179, 213, 212);
+    padding: 16px;
+    border-radius: 16px;
+    margin-left: 10px;
+    margin-top: 10px;
+    color: black;
+}
+
+.result {
+    flex: 1;
+    font-size: 24px;
+}
+
+.text {
+    flex: 1;
+    font-size: 18px;
+}
+
+.text-color{
+    color: rgb(3, 56, 56);
+}
+
+.result-color{
+    color: rgb(0, 6, 6)
+}

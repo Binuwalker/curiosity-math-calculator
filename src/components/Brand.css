@@ -1,0 +1,24 @@
+.brand-container {
+    width: 80%;
+    float: left;
+}
+
+.brand-style {
+    padding-left: 14px;
+    font-weight: bold;
+    font-style: oblique;
+    margin-top: 5px;
+    text-shadow: 2px 2px 2px rgb(8, 112, 137);
+}
+
+.app-version-container {
+    width: 12%;
+    margin-top: 5px;
+    float: left;
+}
+
+.app-version {
+    font-style: oblique;
+    margin-top: 5px;
+    text-shadow: 2px 2px 2px rgb(8, 112, 137);
+}
